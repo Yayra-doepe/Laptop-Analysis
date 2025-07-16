@@ -63,5 +63,5 @@ The main worksheet (`Laptop Data`) includes the following columns:
 
 ---
 ## Dashboard
-![Dashboard Screenshot]("C:\Users\BlessAtivor\Desktop\Bless and Sena\Dashboard.jng.png")
+
 
