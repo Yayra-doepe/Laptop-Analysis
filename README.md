@@ -59,7 +59,9 @@ The main worksheet (`Laptop Data`) includes the following columns:
 ---
 
 ## Contact
-yayradoepe@gmail.com
+- Email yayradoepe@gmail.com
 
-
+---
+## Dashboard
+![Dashboard Screenshot]("C:\Users\BlessAtivor\Desktop\Bless and Sena\Dashboard.jng.png")
 
