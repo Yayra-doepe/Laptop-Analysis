@@ -63,5 +63,6 @@ The main worksheet (`Laptop Data`) includes the following columns:
 
 ---
 ## Dashboard
+<img width="1278" height="1283" alt="Laptop Dashboard" src="https://github.com/user-attachments/assets/ffbf3d13-1bbc-4fc9-8d39-8b1470def919" />
 
 
